@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gtk/gomoku">
+    <file preprocess="xml-stripblanks">FiveChess.ui</file>
+    <file preprocess="xml-stripblanks">style.css</file>
+    <file preprocess="xml-stripblanks">black.png</file>
+    <file preprocess="xml-stripblanks">white.png</file>
+    <file preprocess="xml-stripblanks">background.jpg</file>
+  </gresource>
+</gresources>

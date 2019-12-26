@@ -1,0 +1,20 @@
+window {
+  background-image: url("/org/gtk/gomoku/background.jpg");
+}
+button {
+  opacity: 0.0;
+}
+button.black {
+  opacity: 1.0;
+  background-image: url("/org/gtk/gomoku/black.png");
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button.white {
+  opacity: 1.0;
+  background-image: url("/org/gtk/gomoku/white.png");
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
